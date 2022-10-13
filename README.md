@@ -12,7 +12,7 @@ Open the files in Android Studio & Run them**
 
 AST or Audio Story Teller (Discontinued)
 
-A project made by Aniket Biswas<br />
+A project made by Aniket Biswas.<br />
 Linked In Profile - [https://www.linkedin.com/in/thesmartaniket/](https://www.linkedin.com/in/thesmartaniket/)
 
 
