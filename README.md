@@ -8,15 +8,14 @@ Clone Repository--
 **Steps--
 Open the files in Android Studio & Run them**
 
-
-
-
-
+![20221013_123823000_iOS](https://user-images.githubusercontent.com/97422997/195598516-988ff9dc-4ad2-42b0-be75-35fd8d2c5d3e.jpg)
 
 AST or Audio Story Teller (Discontinued)
 
 A project made by Aniket Biswas
 || Linked In Profile - https://www.linkedin.com/in/thesmartaniket/
+
+
 
 Started this project in 2019 as fun to explore Android Development and build using some templates already available.
 Now after years all the codes are made public (open source) [2022].
