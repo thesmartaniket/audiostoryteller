@@ -4,10 +4,10 @@ An app to share and stream stories.
 <h1>Use It</h1>
 
 Clone the project-- <br />
-`git clone https://github.com/thesmartaniket/ast`
+`git clone https://github.com/thesmartaniket/audiostoryteller
 
 Directory-- <br />
-`cd ast`
+`cd audiostoryteller`
 
 Download--
 [APK](https://audio-story-teller.en.uptodown.com/android)
