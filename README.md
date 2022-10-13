@@ -4,7 +4,7 @@ An app to share and stream stories.
 <h1>Use It</h1>
 
 Clone the project-- <br />
-`git clone https://github.com/thesmartaniket/audiostoryteller
+`git clone https://github.com/thesmartaniket/audiostoryteller`
 
 Directory-- <br />
 `cd audiostoryteller`
