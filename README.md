@@ -25,7 +25,7 @@ Download--
 **AST or Audio Story Teller (Discontinued)**
 
 A project made by Aniket Biswas.<br />
-Linked In Profile - [https://www.linkedin.com/in/thesmartaniket/](https://www.linkedin.com/in/thesmartaniket/)
+Linked In Profile - [https://www.linkedin.com/in/thesmartaniket/](https://www.linkedin.com/in/thesmartaniket/) [For more about me]
 
 
 
