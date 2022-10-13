@@ -1,0 +1,56 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:background="#000000"
+		android:orientation="vertical">
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="match_parent"
+			android:layout_height="60dp"
+			android:padding="8dp"
+			android:orientation="horizontal">
+			<TextView
+				android:id="@+id/textview1"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="About"
+				android:textSize="25sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF"
+				android:layout_gravity="center_horizontal|center_vertical"/>
+		</LinearLayout>
+
+		<TextView
+			android:id="@+id/textview3"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginBottom="30dp"
+			android:padding="8dp"
+			android:text="App Version - V.3.3.0.s\nBuild Version - #2022.1001.3.3.s\nCode Version - 12.0.3\nDeveloper Preview - 3.10.01.12"
+			android:textColor="#448AFF"
+			android:textSize="18sp" />
+		<ScrollView
+			android:id="@+id/vscroll1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+			<TextView
+				android:id="@+id/textview2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="TextView"
+				android:textSize="18sp"
+				android:textColor="#FFFFFF"/>
+		</ScrollView>
+	</LinearLayout>
+</LinearLayout>
