@@ -1,16 +1,28 @@
+<h1>Audio Story Teller</h1>
+An app to share and stream stories.
 
-Clone Repository--
+<h1>Use It</h1>
+
+Clone the project-- <br />
 `git clone https://github.com/thesmartaniket/ast`
 
-[APK Download](https://audio-story-teller.en.uptodown.com/android)
+Directory-- <br />
+`cd ast`
 
+Download--
+[APK](https://audio-story-teller.en.uptodown.com/android)
 
-**Steps--
-Open the files in Android Studio & Run them**
+<h1>Steps to install</h1>
+
+**Steps-- <br /> Open the files in Android Studio <br /> Wait for Android Studio to download all the dependencies & libaries <br /> Test it in virtual devices**
+
+<h1>Screenshots</h1>
 
 ![20221013_123823000_iOS](https://user-images.githubusercontent.com/97422997/195598516-988ff9dc-4ad2-42b0-be75-35fd8d2c5d3e.jpg)
 
-AST or Audio Story Teller (Discontinued)
+<h1>About the app & me</h1>
+
+**AST or Audio Story Teller (Discontinued)**
 
 A project made by Aniket Biswas.<br />
 Linked In Profile - [https://www.linkedin.com/in/thesmartaniket/](https://www.linkedin.com/in/thesmartaniket/)
@@ -21,6 +33,9 @@ Started this project in 2019 as fun to explore Android Development and build usi
 Now after years all the codes are made public (open source) [2022].<br />
 The whole UI is fully designed by me with lots of modifications to the codes with adding lots of new feature.<br />
 
+**As of now all the services for uploading and streaming stories are shut-downed.**
+
+You can change the webpage it loads and modify its functions to fulfill your work scenario. <br />
 
 If you are using my work, then a little mention will be great! [Originally Created by Aniket Biswas].<br />
 Have Fun!<br />
