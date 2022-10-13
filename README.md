@@ -1,4 +1,11 @@
-AST or Audio Story Teller
+git clone https://github.com/thesmartaniket/ast
+
+APK - https://audio-story-teller.en.uptodown.com/android
+
+Steps--
+Open the files in Android Studio
+
+AST or Audio Story Teller (Discontinued)
 
 A project made by Aniket Biswas
 Linked In Profile - https://www.linkedin.com/in/thesmartaniket/
