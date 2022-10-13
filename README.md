@@ -18,7 +18,7 @@ Download--
 
 <h1>Screenshots</h1>
 
-![20221013_123823000_iOS](https://user-images.githubusercontent.com/97422997/195598516-988ff9dc-4ad2-42b0-be75-35fd8d2c5d3e.jpg)
+ ![20221013_123823000_iOS-modified](https://user-images.githubusercontent.com/97422997/195613555-d27853ef-5b23-4855-8ee3-d5efeeb45ebf.png)
 
 <h1>About the app & me</h1>
 
