@@ -1,3 +1,12 @@
+
+Clone Repository--
+`git clone https://github.com/thesmartaniket/ast`
+
+[APK Download](https://audio-story-teller.en.uptodown.com/android)
+
+**Steps--
+Open the files in Android Studio & Run them**
+
 AST or Audio Story Teller (Discontinued)
 
 A project made by Aniket Biswas
