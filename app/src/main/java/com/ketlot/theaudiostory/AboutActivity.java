@@ -41,7 +41,7 @@ public class AboutActivity extends  AppCompatActivity  {
 	}
 	
 	private void initializeLogic() {
-		textview2.setText("\"Audio Story Teller\" is an open free platform purely made for every story narrator, story writer, sound designer and more. We publish audio stories from narrator like you which every users can stream through our app for no cost. We totally believe in the power of story telling, an experience that takes the users to an unknown journey. We support creators like you. \n\nSo, Start streaming your own audio story to the all public now using \"Share a story\".");
+		textview2.setText("All services are shut downed");
 	}
 	
 	@Override
