@@ -63,13 +63,13 @@ public class ContactusActivity extends  AppCompatActivity  {
 		TextView email = (TextView) findViewById(R.id.email);
 		
 		imgintsa.setOnClickListener(_view -> {
-			i.setData(Uri.parse("https://www.instagram.com/theaudiostory/"));
+			i.setData(Uri.parse("https://www.instagram.com/thesmartaniket/"));
 			i.setAction(Intent.ACTION_VIEW);
 			startActivity(i);
 		});
 		
 		instatext.setOnClickListener(_view -> {
-			i.setData(Uri.parse("https://www.instagram.com/theaudiostory/"));
+			i.setData(Uri.parse("https://www.instagram.com/thesmartaniket/"));
 			i.setAction(Intent.ACTION_VIEW);
 			startActivity(i);
 		});
